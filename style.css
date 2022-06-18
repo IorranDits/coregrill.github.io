@@ -160,7 +160,7 @@ aside p {
 /*---------------- depositions -----------------------*/
 
 #depositions {
-    color: #FFE100;
+    color: #ffea00;
     max-width: 70%;
     border-radius: 12px;
     padding: 50px;
@@ -174,7 +174,7 @@ aside p {
 .depositions-content {
     display: inline-block;
     max-width: 30%;
-    vertical-align: middle;
+    vertical-align: top;
 
 
 }
@@ -188,6 +188,7 @@ aside p {
 }
 .depositions-img {
     width: 300px;
+    height: 250px;
     border: 3px solid #FFE100;
     border-radius: 50%;
     margin: auto;
@@ -195,13 +196,13 @@ aside p {
 }
 
 .depositions-content h4 {
-    color: white;
     font-size: 25px;
     text-align: center;
     margin-bottom: 10px;
 }
 
 .depositions-content p {
+    color: white;
     font-size: 20px;
     max-width: 70%;
     text-align: center;
